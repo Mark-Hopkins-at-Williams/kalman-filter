@@ -1,6 +1,5 @@
-# the squid and the whale
-## kalman filters in action
 ![screenshot](images/screenshot.png)
+## the squid and the whale (kalman filters in action)
 
 ### setup
 
