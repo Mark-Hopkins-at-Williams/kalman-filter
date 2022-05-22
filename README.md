@@ -12,7 +12,7 @@ If using Anaconda:
 Otherwise:
 
     python -m venv kalman-env
-    source kalman/bin/activate 
+    source kalman-env/bin/activate 
     pip install -r requirements.txt
 
 ### running the code
